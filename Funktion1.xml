@@ -13,7 +13,7 @@
     <Member Name="Input" Datatype="Bool" Accessibility="Public" />
   </Section>
   <Section Name="Output">
-    <Member Name="Output" Datatype="Bool" Accessibility="Public" />
+    <Member Name="Output_1" Datatype="Bool" Accessibility="Public" />
   </Section>
   <Section Name="InOut" />
   <Section Name="Temp" />
