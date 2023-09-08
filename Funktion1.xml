@@ -12,7 +12,9 @@
   <Section Name="Input">
     <Member Name="Input" Datatype="Bool" Accessibility="Public" />
   </Section>
-  <Section Name="Output" />
+  <Section Name="Output">
+    <Member Name="Output" Datatype="Bool" Accessibility="Public" />
+  </Section>
   <Section Name="InOut" />
   <Section Name="Temp" />
   <Section Name="Constant" />
